@@ -1,7 +1,7 @@
-baseurl = "/"
+baseurl = "https://samsteingeog.github.io/blogdown_class/"
 languageCode = "en-us"
 title = "Sam Stein"
-theme = "hugo-lithium"
+theme = "hugo-minimal-academic"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
@@ -18,10 +18,10 @@ PublishDir = "docs"
     url = "/research/"
 [[menu.main]]
     name = "GitHub"
-    url = "https://github.com/rstudio/blogdown"
+    url = "https://github.com/samsteingeog"
 [[menu.main]]
     name = "Twitter"
-    url = "https://twitter.com/rstudio"
+    url = "https://twitter.com/thesamstein"
 
 [params]
     description = "A website built through Hugo and blogdown."
